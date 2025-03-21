@@ -1,0 +1,14 @@
+C:\Users\Alunos\Desktop\LPR_DeBochi\aula_04\Tarefa_03\bin\Debug\net9.0\Tarefa_03.exe
+C:\Users\Alunos\Desktop\LPR_DeBochi\aula_04\Tarefa_03\bin\Debug\net9.0\Tarefa_03.deps.json
+C:\Users\Alunos\Desktop\LPR_DeBochi\aula_04\Tarefa_03\bin\Debug\net9.0\Tarefa_03.runtimeconfig.json
+C:\Users\Alunos\Desktop\LPR_DeBochi\aula_04\Tarefa_03\bin\Debug\net9.0\Tarefa_03.dll
+C:\Users\Alunos\Desktop\LPR_DeBochi\aula_04\Tarefa_03\bin\Debug\net9.0\Tarefa_03.pdb
+C:\Users\Alunos\Desktop\LPR_DeBochi\aula_04\Tarefa_03\obj\Debug\net9.0\Tarefa_03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Desktop\LPR_DeBochi\aula_04\Tarefa_03\obj\Debug\net9.0\Tarefa_03.AssemblyInfoInputs.cache
+C:\Users\Alunos\Desktop\LPR_DeBochi\aula_04\Tarefa_03\obj\Debug\net9.0\Tarefa_03.AssemblyInfo.cs
+C:\Users\Alunos\Desktop\LPR_DeBochi\aula_04\Tarefa_03\obj\Debug\net9.0\Tarefa_03.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\LPR_DeBochi\aula_04\Tarefa_03\obj\Debug\net9.0\Tarefa_03.dll
+C:\Users\Alunos\Desktop\LPR_DeBochi\aula_04\Tarefa_03\obj\Debug\net9.0\refint\Tarefa_03.dll
+C:\Users\Alunos\Desktop\LPR_DeBochi\aula_04\Tarefa_03\obj\Debug\net9.0\Tarefa_03.pdb
+C:\Users\Alunos\Desktop\LPR_DeBochi\aula_04\Tarefa_03\obj\Debug\net9.0\Tarefa_03.genruntimeconfig.cache
+C:\Users\Alunos\Desktop\LPR_DeBochi\aula_04\Tarefa_03\obj\Debug\net9.0\ref\Tarefa_03.dll

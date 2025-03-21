@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Tarefa_03/1.0.0": {
+        "runtime": {
+          "Tarefa_03.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tarefa_03/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
